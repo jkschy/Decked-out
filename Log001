@@ -1,0 +1,71 @@
+This is the First Update Log of the new Decked Out Game, By Justin Schy
+
+I started learning how to code in unity and use their scripts.
+Its not super easy, but I am getting the hang of it, and how have a movable scene for the dungeon and a welcome screen with a button that says start dungeon
+
+I Want to have at least 150 cards that you can collect, and maybe an inventory of 10 cards, with 6 of those being playable, 
+
+Helmet-
+Chestplate- 
+Leggings-
+Boots-
+Weapon-
+Sheild-
+
+Here are some Example Cards from each Set
+
+Helmet-
+
+Name- Helm of Montezuma
+effect- +10 Protection from Projectiles
+Description- Thi Helmet was forged in the fires of the Aztec Empre durint the height of montezumas reign. He never faught without it.
+Family- Aztec
+
+Chestplate- 
+
+Name- Spartian Breastplate
+effect- +100 Protection from all Lower level Attackers, and +10 From all Other levels
+Description- The Spartians were known for their viscious tactics, and their intense training, this breastplate was created to protect any spartian from anything. It was created to protect you like no other. Wear it with Honor.
+Family- Spartian
+
+Leggings- 
+
+Name- Pants of Blackbeard
+effect- inventory +2
+Description- Once a feared pirate, now just a name on paper, Blackbeard was ableto carry more things then any Pirate known to mankind, these pants were his little trick to carry things with him.
+
+Weapon- 
+
+Name- basic Bow/Sword
+Effect- deals 2 Ranged Damage/Damage
+Description- made from a tree on his mothers yard, this bow allows you to fire at enemys from a distance, use the arrows carefully you dont have too many.
+Family- None
+
+Sheild- 
+
+Name- Sheild of Alexandar the Great
+effect- Allows you to deal 10 extra damage when you counter an attack
+Description- This Sheild was once weilded by Alexandar the Great, his conquoring of the known world created a legend of magnificent proportions, without this sheild he would have parished in almost every battle, but this sheild protected him, now let it protect you.
+
+
+
+I might want to add more to the list, and create a magic or some sort of other equipable for example:
+
+Name: Lightning of Zeus
+Effect: 100 Projectile Damage, -10 Player Health
+Description: Casts a Ray of Lightning in that direction, and deals the User 10 Damage
+Family- Mythology
+
+
+As you can see, I want it to be history based with some easy leveling at the begining, and then a slow progress up to the more unique items, and rarer items. I want you to get cards in the dungeon, and on compleition of the dungeon. Each one will have an objective, and a win condition, without that met after the time runs out you will have failed the dungeon and will be charged with finding a new one. Maybe not, I have not thought that through yet. I also want you to only be able to find the rare ones in hard to reach places in the dungeon.
+
+Overall I will be extreemly challeneged with this game in these areas
+1- SQL Skills
+2- Unity
+3- Graphic Design 
+
+That might seem like almost every aspect of the game, and it is, I want to be truely challenged in a way I have never been challenged before, and I hope ths log will be kept up to date on my weekly changes to skills or the game. I will also be posting the game here when it is in any shape playable.
+
+I hope I am not the only one who reads this 
+
+Happy Hunting!
