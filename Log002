@@ -1,0 +1,5 @@
+Finding new issues every time that I begin to code anything, I recently figured out how to make a ray cast to prevent the player from walking over objects. I am now creating a wire drawing of my dingeon with the objects you can and cannot access in different colors.
+
+This will hopefully allow me to actually make a somewhat playable game so I can start testing things, and in the end, I want to use an SQL database that is hosted on my computer to work. I know quite a bit of SQL, so I have created the tables and primary keys and linked them together correctly, and i have a few values inside of it, there are not too maky tables but I want to use it to store the player information, card and family information. 
+
+Hopefully using SQL will allow me to get used to pulling SQL query informaton through code, I have pulled regular information into code and using it to create log in systems using hash encoders and decoders.
